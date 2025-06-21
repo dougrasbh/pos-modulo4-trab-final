@@ -1,0 +1,10 @@
+[
+    {
+        "dataset_name": "Linkedin Profiles Data",
+        "description": "Dataset generated from LinkedIn profiles, containing professional experiences and education.",
+        "path": "../processed/perfil_linkedin_dados.csv",
+        "format": "csv",
+        "created_at": "2025-06-20",
+        "version": "1.0"
+    }
+]

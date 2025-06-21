@@ -1,0 +1,33 @@
+{
+    "file": "perfil_linkedin_dados.csv",
+    "description": "Dataset containing professional experiences and education extracted from LinkedIn profiles.",
+    "format": "csv",
+    "separator": ",",
+    "encoding": "utf-8",
+    "number_of_rows": 557,
+    "columns": [
+        {
+            "name": "name",
+            "type": "string",
+            "description": "Person name"
+        },
+        {
+            "name": "headline",
+            "type": "string",
+            "description": "Professional headline"
+        },
+        {
+            "name": "experience",
+            "type": "string",
+            "description": "Professional experiences"
+        },
+        {
+            "name": "education",
+            "type": "string",
+            "description": "Education details"
+        }
+    ],
+    "origin": "Unknown",
+    "collect_date": "2025-06-19",
+    "owner": "Ronald Boadana, Debora Barros and Arthur Santos"
+}
