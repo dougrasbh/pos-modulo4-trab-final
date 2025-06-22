@@ -1,5 +1,7 @@
 # 📘 Trabalho Final Módulo 4 - Pós-Graduação em Ciência de Dados
 
+**Apresentação** - https://youtu.be/b79gsQpLk4w
+
 **Equipe**
 - Arthur Santos
 - Debora Barros
